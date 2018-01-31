@@ -7,21 +7,61 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		07124F272018550900ADFB75 /* AdminRegisterVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07124F262018550900ADFB75 /* AdminRegisterVC.swift */; };
+		07124F292018662400ADFB75 /* BookedEventsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07124F282018662400ADFB75 /* BookedEventsCell.swift */; };
+		07124F2B2018665E00ADFB75 /* BookedEventsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07124F2A2018665E00ADFB75 /* BookedEventsVC.swift */; };
+		0713B3A61FFA593D005C8B11 /* DetailOfDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0713B3A01FFA593D005C8B11 /* DetailOfDetailVC.swift */; };
+		0713B3A71FFA593D005C8B11 /* DetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0713B3A11FFA593D005C8B11 /* DetailVC.swift */; };
+		0713B3A81FFA593D005C8B11 /* EventsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0713B3A21FFA593D005C8B11 /* EventsVC.swift */; };
+		0713B3A91FFA593D005C8B11 /* HomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0713B3A31FFA593D005C8B11 /* HomeVC.swift */; };
+		0713B3AA1FFA593D005C8B11 /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0713B3A41FFA593D005C8B11 /* LoginVC.swift */; };
+		0713B3AB1FFA593D005C8B11 /* RegisterVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0713B3A51FFA593D005C8B11 /* RegisterVC.swift */; };
+		0713B3AD1FFA595B005C8B11 /* HomeVCCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0713B3AC1FFA595B005C8B11 /* HomeVCCell.swift */; };
 		0724E3891FF27D04001D6AE2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0724E3881FF27D04001D6AE2 /* AppDelegate.swift */; };
-		0724E38B1FF27D04001D6AE2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0724E38A1FF27D04001D6AE2 /* ViewController.swift */; };
 		0724E38E1FF27D04001D6AE2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0724E38C1FF27D04001D6AE2 /* Main.storyboard */; };
 		0724E3901FF27D04001D6AE2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0724E38F1FF27D04001D6AE2 /* Assets.xcassets */; };
 		0724E3931FF27D04001D6AE2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0724E3911FF27D04001D6AE2 /* LaunchScreen.storyboard */; };
+		0724E39D1FF27D3F001D6AE2 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0724E39C1FF27D3F001D6AE2 /* Constant.swift */; };
+		073A546D2013770300704AEC /* RatingCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 073A546C2013770300704AEC /* RatingCell.swift */; };
+		079F5E72200CC4C80028289E /* HomeVCModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 079F5E71200CC4C80028289E /* HomeVCModel.swift */; };
+		07DC3EFE20132A3B00F28B5A /* BookingVCCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07DC3EFD20132A3B00F28B5A /* BookingVCCell.swift */; };
+		07DF5EF3200F06A300142EFF /* Reachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07DF5EF2200F06A300142EFF /* Reachability.swift */; };
+		07E49F882010662900F1CFB0 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 07E49F872010662900F1CFB0 /* GoogleService-Info.plist */; };
+		07E49F8A20107FDF00F1CFB0 /* BookingVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07E49F8920107FDF00F1CFB0 /* BookingVC.swift */; };
+		07E7D2CE20171ADE00334DC6 /* AdminLoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07E7D2CD20171ADE00334DC6 /* AdminLoginVC.swift */; };
+		07E7D2D020171B8200334DC6 /* AdminHomeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07E7D2CF20171B8200334DC6 /* AdminHomeVC.swift */; };
+		EEFD4B99D413EE5A3BEC99A8 /* Pods_Event_Management.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C870F2C970A45FB43E2A18E9 /* Pods_Event_Management.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		07124F262018550900ADFB75 /* AdminRegisterVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdminRegisterVC.swift; sourceTree = "<group>"; };
+		07124F282018662400ADFB75 /* BookedEventsCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookedEventsCell.swift; sourceTree = "<group>"; };
+		07124F2A2018665E00ADFB75 /* BookedEventsVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookedEventsVC.swift; sourceTree = "<group>"; };
+		0713B3A01FFA593D005C8B11 /* DetailOfDetailVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailOfDetailVC.swift; sourceTree = "<group>"; };
+		0713B3A11FFA593D005C8B11 /* DetailVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailVC.swift; sourceTree = "<group>"; };
+		0713B3A21FFA593D005C8B11 /* EventsVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EventsVC.swift; sourceTree = "<group>"; };
+		0713B3A31FFA593D005C8B11 /* HomeVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeVC.swift; sourceTree = "<group>"; };
+		0713B3A41FFA593D005C8B11 /* LoginVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
+		0713B3A51FFA593D005C8B11 /* RegisterVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RegisterVC.swift; sourceTree = "<group>"; };
+		0713B3AC1FFA595B005C8B11 /* HomeVCCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeVCCell.swift; sourceTree = "<group>"; };
 		0724E3851FF27D04001D6AE2 /* Event Management.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Event Management.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0724E3881FF27D04001D6AE2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		0724E38A1FF27D04001D6AE2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		0724E38D1FF27D04001D6AE2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		0724E38F1FF27D04001D6AE2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0724E3921FF27D04001D6AE2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0724E3941FF27D04001D6AE2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0724E39C1FF27D3F001D6AE2 /* Constant.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
+		073A546C2013770300704AEC /* RatingCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RatingCell.swift; sourceTree = "<group>"; };
+		079F5E71200CC4C80028289E /* HomeVCModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeVCModel.swift; sourceTree = "<group>"; };
+		07DC3EFD20132A3B00F28B5A /* BookingVCCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookingVCCell.swift; sourceTree = "<group>"; };
+		07DF5EF2200F06A300142EFF /* Reachability.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Reachability.swift; sourceTree = "<group>"; };
+		07E49F872010662900F1CFB0 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		07E49F8920107FDF00F1CFB0 /* BookingVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookingVC.swift; sourceTree = "<group>"; };
+		07E7D2CD20171ADE00334DC6 /* AdminLoginVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdminLoginVC.swift; sourceTree = "<group>"; };
+		07E7D2CF20171B8200334DC6 /* AdminHomeVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdminHomeVC.swift; sourceTree = "<group>"; };
+		6E1D153B5B74CDE8E6867765 /* Pods-Event Management.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Event Management.release.xcconfig"; path = "Pods/Target Support Files/Pods-Event Management/Pods-Event Management.release.xcconfig"; sourceTree = "<group>"; };
+		C870F2C970A45FB43E2A18E9 /* Pods_Event_Management.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Event_Management.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		EF300D232C8BD921B66917E1 /* Pods-Event Management.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Event Management.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Event Management/Pods-Event Management.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,17 +69,57 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EEFD4B99D413EE5A3BEC99A8 /* Pods_Event_Management.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0713B3991FFA5836005C8B11 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				079F5E71200CC4C80028289E /* HomeVCModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		0713B39C1FFA587F005C8B11 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				0713B3A01FFA593D005C8B11 /* DetailOfDetailVC.swift */,
+				0713B3A11FFA593D005C8B11 /* DetailVC.swift */,
+				0713B3A21FFA593D005C8B11 /* EventsVC.swift */,
+				0713B3A31FFA593D005C8B11 /* HomeVC.swift */,
+				0713B3A41FFA593D005C8B11 /* LoginVC.swift */,
+				0713B3A51FFA593D005C8B11 /* RegisterVC.swift */,
+				07E49F8920107FDF00F1CFB0 /* BookingVC.swift */,
+				07E7D2CD20171ADE00334DC6 /* AdminLoginVC.swift */,
+				07E7D2CF20171B8200334DC6 /* AdminHomeVC.swift */,
+				07124F262018550900ADFB75 /* AdminRegisterVC.swift */,
+				07124F2A2018665E00ADFB75 /* BookedEventsVC.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		0713B39D1FFA587F005C8B11 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				0713B3AC1FFA595B005C8B11 /* HomeVCCell.swift */,
+				07DC3EFD20132A3B00F28B5A /* BookingVCCell.swift */,
+				073A546C2013770300704AEC /* RatingCell.swift */,
+				07124F282018662400ADFB75 /* BookedEventsCell.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
 		0724E37C1FF27D03001D6AE2 = {
 			isa = PBXGroup;
 			children = (
 				0724E3871FF27D04001D6AE2 /* Event Management */,
 				0724E3861FF27D04001D6AE2 /* Products */,
+				73CC3F3BB1732D5D1BF11F26 /* Pods */,
+				1E96F16DE11C6E9A2BE59FE3 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -55,13 +135,35 @@
 			isa = PBXGroup;
 			children = (
 				0724E3881FF27D04001D6AE2 /* AppDelegate.swift */,
-				0724E38A1FF27D04001D6AE2 /* ViewController.swift */,
-				0724E38C1FF27D04001D6AE2 /* Main.storyboard */,
 				0724E38F1FF27D04001D6AE2 /* Assets.xcassets */,
 				0724E3911FF27D04001D6AE2 /* LaunchScreen.storyboard */,
+				0724E38C1FF27D04001D6AE2 /* Main.storyboard */,
 				0724E3941FF27D04001D6AE2 /* Info.plist */,
+				0713B3991FFA5836005C8B11 /* Model */,
+				0713B39C1FFA587F005C8B11 /* Controller */,
+				0713B39D1FFA587F005C8B11 /* View */,
+				0724E39C1FF27D3F001D6AE2 /* Constant.swift */,
+				07E49F872010662900F1CFB0 /* GoogleService-Info.plist */,
+				07DF5EF2200F06A300142EFF /* Reachability.swift */,
 			);
 			path = "Event Management";
+			sourceTree = "<group>";
+		};
+		1E96F16DE11C6E9A2BE59FE3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C870F2C970A45FB43E2A18E9 /* Pods_Event_Management.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		73CC3F3BB1732D5D1BF11F26 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				EF300D232C8BD921B66917E1 /* Pods-Event Management.debug.xcconfig */,
+				6E1D153B5B74CDE8E6867765 /* Pods-Event Management.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +173,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 0724E3971FF27D04001D6AE2 /* Build configuration list for PBXNativeTarget "Event Management" */;
 			buildPhases = (
+				F0C88651A91701B39D42E4D1 /* [CP] Check Pods Manifest.lock */,
 				0724E3811FF27D04001D6AE2 /* Sources */,
 				0724E3821FF27D04001D6AE2 /* Frameworks */,
 				0724E3831FF27D04001D6AE2 /* Resources */,
+				DFC87DFDB5BB2078A8B39570 /* [CP] Embed Pods Frameworks */,
+				1AD2B7B62119B1EFBF8699D3 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -96,6 +201,7 @@
 				TargetAttributes = {
 					0724E3841FF27D04001D6AE2 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = CNUW2943D9;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -124,6 +230,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0724E3931FF27D04001D6AE2 /* LaunchScreen.storyboard in Resources */,
+				07E49F882010662900F1CFB0 /* GoogleService-Info.plist in Resources */,
 				0724E3901FF27D04001D6AE2 /* Assets.xcassets in Resources */,
 				0724E38E1FF27D04001D6AE2 /* Main.storyboard in Resources */,
 			);
@@ -131,13 +238,104 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		1AD2B7B62119B1EFBF8699D3 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 12;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Event Management/Pods-Event Management-resources.sh",
+				$PODS_CONFIGURATION_BUILD_DIR/FirebaseUI/FirebaseAuthUI.bundle,
+				$PODS_CONFIGURATION_BUILD_DIR/FirebaseUI/FirebaseFacebookAuthUI.bundle,
+				$PODS_CONFIGURATION_BUILD_DIR/FirebaseUI/FirebaseGoogleAuthUI.bundle,
+				$PODS_CONFIGURATION_BUILD_DIR/FirebaseUI/FirebasePhoneAuthUI.bundle,
+				$PODS_CONFIGURATION_BUILD_DIR/FirebaseUI/FirebaseTwitterAuthUI.bundle,
+				"${PODS_ROOT}/GoogleSignIn/Resources/GoogleSignIn.bundle",
+				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework/TwitterKitResources.bundle",
+				"${PODS_ROOT}/TwitterKit/iOS/TwitterKit.framework/TwitterShareExtensionUIResources.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Event Management/Pods-Event Management-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		DFC87DFDB5BB2078A8B39570 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Event Management/Pods-Event Management-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
+				"${BUILT_PRODUCTS_DIR}/GoogleToolboxForMac/GoogleToolboxForMac.framework",
+				"${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework",
+				"${BUILT_PRODUCTS_DIR}/SVProgressHUD/SVProgressHUD.framework",
+				"${BUILT_PRODUCTS_DIR}/leveldb-library/leveldb.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleToolboxForMac.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Kingfisher.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SVProgressHUD.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/leveldb.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Event Management/Pods-Event Management-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F0C88651A91701B39D42E4D1 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Event Management-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		0724E3811FF27D04001D6AE2 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0724E38B1FF27D04001D6AE2 /* ViewController.swift in Sources */,
+				07E49F8A20107FDF00F1CFB0 /* BookingVC.swift in Sources */,
+				0713B3A71FFA593D005C8B11 /* DetailVC.swift in Sources */,
+				079F5E72200CC4C80028289E /* HomeVCModel.swift in Sources */,
+				0713B3A91FFA593D005C8B11 /* HomeVC.swift in Sources */,
+				07DC3EFE20132A3B00F28B5A /* BookingVCCell.swift in Sources */,
+				0713B3AA1FFA593D005C8B11 /* LoginVC.swift in Sources */,
+				07124F2B2018665E00ADFB75 /* BookedEventsVC.swift in Sources */,
+				073A546D2013770300704AEC /* RatingCell.swift in Sources */,
+				07E7D2D020171B8200334DC6 /* AdminHomeVC.swift in Sources */,
+				0713B3AD1FFA595B005C8B11 /* HomeVCCell.swift in Sources */,
+				07124F272018550900ADFB75 /* AdminRegisterVC.swift in Sources */,
+				07124F292018662400ADFB75 /* BookedEventsCell.swift in Sources */,
 				0724E3891FF27D04001D6AE2 /* AppDelegate.swift in Sources */,
+				0713B3A61FFA593D005C8B11 /* DetailOfDetailVC.swift in Sources */,
+				07DF5EF3200F06A300142EFF /* Reachability.swift in Sources */,
+				0713B3AB1FFA593D005C8B11 /* RegisterVC.swift in Sources */,
+				0724E39D1FF27D3F001D6AE2 /* Constant.swift in Sources */,
+				0713B3A81FFA593D005C8B11 /* EventsVC.swift in Sources */,
+				07E7D2CE20171ADE00334DC6 /* AdminLoginVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,9 +454,12 @@
 		};
 		0724E3981FF27D04001D6AE2 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = EF300D232C8BD921B66917E1 /* Pods-Event Management.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = CNUW2943D9;
 				INFOPLIST_FILE = "Event Management/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Event-Management";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -268,9 +469,12 @@
 		};
 		0724E3991FF27D04001D6AE2 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6E1D153B5B74CDE8E6867765 /* Pods-Event Management.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = CNUW2943D9;
 				INFOPLIST_FILE = "Event Management/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.Event-Management";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -297,6 +501,7 @@
 				0724E3991FF27D04001D6AE2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
